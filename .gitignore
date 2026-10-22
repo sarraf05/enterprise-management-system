@@ -1,0 +1,5 @@
+# Node.js bağımlılıkları (İleride frontend ve backend için eklenecek)
+node_modules/
+
+# Veritabanı şifreleri ve gizli ayarlar
+.env
